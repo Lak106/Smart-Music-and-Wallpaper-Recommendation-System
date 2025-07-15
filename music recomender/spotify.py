@@ -1,0 +1,1 @@
+# simple wrapper around Spotify API
